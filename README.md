@@ -6,10 +6,9 @@ This project contains three `UIViewController` examples, each using `UITableView
 
 ---
 
-## 1. ViewController: Managing Row Selection with Checkmarks
+## 1. ViewController: Simple checklist
 
 **Main Features**:
-- This controller displays a table with 50 rows.
 - When a user selects a row, a checkmark appears next to it.
 
 **Methods to Handle Row Selection**:
@@ -30,7 +29,6 @@ This project contains three `UIViewController` examples, each using `UITableView
 ## 2. SecondPageVC: Efficient Cell Reuse and Selection
 
 **Main Features**:
-- Displays a table with 50 rows, allowing users to select rows.
 - Selected rows are tracked in a `Set` that stores selected row indexes. The table updates with an animation when a row is selected or deselected.
 
 **Cell Reuse**:
@@ -44,7 +42,7 @@ This approach ensures smooth row selection and efficient performance, especially
 ## 3. ThirdPageVC: Animations and Interactive Cells
 
 **Main Features**:
-- Displays a table with 50 rows. Depending on the row, each cell displays either an image or some text.
+- Depending on the row, each cell displays either an image or some text.
 
 **Cell Animation**:
 - When a cell is about to appear, it fades in and slides up slightly for a smooth visual effect (`willDisplay`).
