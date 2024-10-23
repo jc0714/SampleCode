@@ -1,5 +1,5 @@
 //
-//  ThreePageVC.swift
+//  ThirdPageVC.swift
 //  tableView_sampleCode
 //
 //  Created by J oyce on 2024/8/17.
@@ -7,7 +7,7 @@
 
 import UIKit
 
-class ThreePageVC: UIViewController, UITableViewDataSource, UITableViewDelegate {
+class ThirdPageVC: UIViewController, UITableViewDataSource, UITableViewDelegate {
 
     let tableView = UITableView()
     var selectedRows: Set<Int> = []

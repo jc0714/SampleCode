@@ -13,7 +13,7 @@
 		E9222A122C703EAF00B24218 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = E9222A112C703EAF00B24218 /* Base */; };
 		E9222A142C703EB100B24218 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E9222A132C703EB100B24218 /* Assets.xcassets */; };
 		E9222A172C703EB100B24218 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = E9222A162C703EB100B24218 /* Base */; };
-		E9222A212C70858E00B24218 /* ThreePageVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9222A202C70858E00B24218 /* ThreePageVC.swift */; };
+		E9222A212C70858E00B24218 /* ThirdPageVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9222A202C70858E00B24218 /* ThirdPageVC.swift */; };
 		E9222A232C70A7D400B24218 /* SecondPageVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9222A222C70A7D400B24218 /* SecondPageVC.swift */; };
 /* End PBXBuildFile section */
 
@@ -26,7 +26,7 @@
 		E9222A132C703EB100B24218 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E9222A162C703EB100B24218 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E9222A182C703EB100B24218 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E9222A202C70858E00B24218 /* ThreePageVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThreePageVC.swift; sourceTree = "<group>"; };
+		E9222A202C70858E00B24218 /* ThirdPageVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdPageVC.swift; sourceTree = "<group>"; };
 		E9222A222C70A7D400B24218 /* SecondPageVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondPageVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -64,7 +64,7 @@
 				E9222A0C2C703EAF00B24218 /* SceneDelegate.swift */,
 				E9222A0E2C703EAF00B24218 /* ViewController.swift */,
 				E9222A222C70A7D400B24218 /* SecondPageVC.swift */,
-				E9222A202C70858E00B24218 /* ThreePageVC.swift */,
+				E9222A202C70858E00B24218 /* ThirdPageVC.swift */,
 				E9222A102C703EAF00B24218 /* Main.storyboard */,
 				E9222A132C703EB100B24218 /* Assets.xcassets */,
 				E9222A152C703EB100B24218 /* LaunchScreen.storyboard */,
@@ -146,7 +146,7 @@
 			files = (
 				E9222A0F2C703EAF00B24218 /* ViewController.swift in Sources */,
 				E9222A232C70A7D400B24218 /* SecondPageVC.swift in Sources */,
-				E9222A212C70858E00B24218 /* ThreePageVC.swift in Sources */,
+				E9222A212C70858E00B24218 /* ThirdPageVC.swift in Sources */,
 				E9222A0B2C703EAF00B24218 /* AppDelegate.swift in Sources */,
 				E9222A0D2C703EAF00B24218 /* SceneDelegate.swift in Sources */,
 			);
